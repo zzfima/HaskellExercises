@@ -16,8 +16,12 @@ cabal.sandbox.config
 *.aux
 *.hp
 *.eventlog
+*.exe
 .stack-work/
 cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+/.vs/HaskellExercises/FileContentIndex
+/.vs/HaskellExercises/v17
+/.vs
